@@ -1,11 +1,11 @@
-# Game Chinese (China) translation.
+# Game English (World) translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: ru-noonesurvival\n"
-"POT-Creation-Date: 2023-02-01 12:05\n"
-"PO-Revision-Date: 2023-02-13 14:46\n"
+"POT-Creation-Date: 2023-02-02 02:54\n"
+"PO-Revision-Date: 2023-02-13 15:31\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -15,8 +15,8 @@ msgstr ""
 "X-Crowdin-Project: ru-noonesurvival\n"
 "X-Crowdin-Project-ID: 567659\n"
 "X-Crowdin-Language: ru\n"
-"X-Crowdin-File: /main/ZH-CN/Game.po\n"
-"X-Crowdin-File-ID: 13\n"
+"X-Crowdin-File: /main/EN/Game.po\n"
+"X-Crowdin-File-ID: 17\n"
 
 #. Key:	005986EF48789316B83C53885CBD1FB8
 #. SourceLocation:	/Game/Blueprint/UMG/Inventory/WBP_UseMenu.WBP_UseMenu_C:WidgetTree.TextBlock_9.Text
