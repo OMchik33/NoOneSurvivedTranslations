@@ -1,3 +1,3 @@
 files:
-  - source: /**/**/EN/Game.po
+  - source: /**/**/ZH-CN/Game.po
     translation: '%original_file_name%'
