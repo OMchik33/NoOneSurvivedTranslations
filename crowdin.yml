@@ -1,0 +1,3 @@
+files:
+  - source: /**/RU/Game.po
+    translation: '%original_file_name%'
