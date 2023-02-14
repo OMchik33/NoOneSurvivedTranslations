@@ -6486,7 +6486,7 @@ msgstr "военная сумка"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,A5"
 msgid "登山包"
-msgstr "рюкзаки"
+msgstr "рюкзак"
 
 #. Key:	A6
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
